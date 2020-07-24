@@ -3,7 +3,6 @@ this repository includes a grasp detection model based on yolov3,rotate box iou 
 
 ## In this repository you can get:
 - a grasp detection model based on yolov3
-- rotate box iou calculation
 - rnms implemented by CUDA
 - cornell dataset implemented by pytorch
 - convert cornell data set to yolo format
